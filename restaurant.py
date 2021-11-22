@@ -1,3 +1,7 @@
+###Logan Carr - Initial program, week one. Ultimate goal is to turn this into a tip calculator
+
+
+
 
 total = 47.33
 ##Cost of meal before tax
